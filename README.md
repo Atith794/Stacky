@@ -10,35 +10,24 @@ One Command to Bootstrap Your React/MERN Application!
 ✔️ Premium Templates (for Pro Users) – Get full-featured templates for e-commerce, social media, and more.
 
 📦 Installation
-sh
-Copy
-Edit
 npx create-mern-app
-or
-
-sh
-Copy
-Edit
 npm install -g create-mern-app
+
 🚀 Usage
 1️⃣ Start with an Interactive Setup
-sh
-Copy
-Edit
 create-mern-app init
 Choose Frontend / Backend / Fullstack setup.
 Select state management & other libraries.
 Auto-install dependencies.
+
 2️⃣ Directly Create Specific Apps
 React App: create-mern-app frontend --vite
 Express Backend: create-mern-app backend
 Full MERN Stack: create-mern-app fullstack --install
+
 3️⃣ Premium Templates 🚀
 🔥 Unlock E-commerce, Social Media, and To-Do List templates with:
 
-sh
-Copy
-Edit
 create-mern-app templates --premium
 (Includes pre-configured authentication, payment integration & state management!)
 
@@ -53,9 +42,6 @@ create-mern-app templates --premium
 ✅ Smart Auto-Imports (CLI fixes missing imports like useNavigate automatically!)
 👉 Get access by running:
 
-sh
-Copy
-Edit
 create-mern-app --premium
 🌎 Cross-Platform Compatibility
 This tool works flawlessly on Windows, macOS, and Linux.
